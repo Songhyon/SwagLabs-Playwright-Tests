@@ -1,0 +1,23 @@
+{
+  "name": "swaglabs-playwright-tests",
+  "version": "1.0.0",
+  "description": "Playwright (TypeScript) test automation for Swag Lab (saucedemo.com) – Laurea Fundamentals of FunctionalTesting group project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Songhyon/SwagLabs-Playwright-Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Songhyon/SwagLabs-Playwright-Tests/issues"
+  },
+  "homepage": "https://github.com/Songhyon/SwagLabs-Playwright-Tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
